@@ -1,0 +1,28 @@
+SMARTSCHOLAR AI - SCHOLARSHIP EVALUATION RUBRIC
+*** DEMONSTRATION DATA ONLY. This is a sample rubric written for a B.Tech course assignment. It is NOT an actual university scholarship policy. ***
+
+SECTION: Eligibility
+[ELG-1] Minimum CGPA. An applicant must have a CGPA of at least 7.0 on a 10-point scale. An applicant with a CGPA below 7.0 is not eligible and is rejected.
+
+[ELG-2] Maximum Family Income. The annual family income must not be more than Rs 4,00,000 (4 lakh). An income of exactly Rs 4,00,000 is allowed. An applicant above this limit is not eligible and is rejected.
+
+[ELG-3] Eligible Course. Only students enrolled in a B.Tech programme (for example B.Tech CSE) are eligible. Students of other courses are rejected.
+
+[ELG-4] Mandatory Application Requirements. A complete application must contain the application id, student name, CGPA, annual family income, course and a personal statement of at least 20 characters. Achievements are optional. An application without a valid personal statement is rejected.
+
+SECTION: Academic Merit
+[MER-1] Academic Performance (maximum 70 points). CGPA 9.0 and above earns 70 points. CGPA 8.5 to below 9.0 earns 60 points. CGPA 8.0 to below 8.5 earns 50 points. CGPA 7.5 to below 8.0 earns 40 points. CGPA 7.0 to below 7.5 earns 30 points. CGPA below 7.0 earns 0 points.
+
+[MER-2] Total Merit Score (maximum 100 points). The merit score is the academic performance points (maximum 70) plus the achievement points (maximum 30).
+
+SECTION: Achievements
+[ACH-1] Achievement Evaluation (maximum 30 points). Each distinct achievement listed by the student earns 10 points. At most three achievements are counted, so the maximum is 30 points. Achievements are taken as listed by the student and are not verified in this demonstration.
+
+SECTION: Financial Need
+[NEED-1] Financial Need Score (maximum 100 points). Annual family income below Rs 1,00,000 earns 100 points. Rs 1,00,000 to below Rs 2,00,000 earns 80 points. Rs 2,00,000 to below Rs 3,00,000 earns 60 points. Rs 3,00,000 to Rs 4,00,000 (inclusive) earns 40 points. Income above Rs 4,00,000 earns 0 points.
+
+SECTION: Score Weights
+[WGT-1] Final Weighted Score. Final Score = (Merit Score x 0.60) + (Financial Need Score x 0.40). Merit carries 60 percent of the weight and financial need carries 40 percent.
+
+SECTION: Decision Thresholds
+[DEC-1] Decision Thresholds. A final score of 80 or more is an Award. A final score of 60 or more but below 80 is a Waitlist. A final score below 60 is a Reject. If an applicant fails any mandatory eligibility rule (ELG-1 to ELG-4) the decision is always Reject, whatever the numerical score. An application with missing required information is not scored and is returned for review.

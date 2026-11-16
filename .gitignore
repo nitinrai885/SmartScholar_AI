@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE settings
+.vscode/
+
+# Logs
+logs/*.json
+
+# Local application data
+memory/applications.json
+
+# Vector database
+vector_db/
+chroma_db/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+!.env.example
